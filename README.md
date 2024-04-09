@@ -1,5 +1,7 @@
 # Ursus Arctos - Archi Model Browser
 
+[![Java CI with Maven](https://github.com/rvto/ursus-arctos/actions/workflows/ci.yml/badge.svg)](https://github.com/rvto/ursus-arctos/actions/workflows/ci.yml)[![CodeQL](https://github.com/rvto/ursus-arctos/actions/workflows/codeql.yml/badge.svg)](https://github.com/rvto/ursus-arctos/actions/workflows/codeql.yml)
+
 A web app for publishing and exploring archimate models.
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
